@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bienvenido!  👋 soy Verónica, FULL STACK DEVELOPER
 
 <!--
 **VeronicaBDev/VeronicaBDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--<h1 ><img src="https://i.postimg.cc/MHghWqQK/PARA-GITHUB.jpg" alt="Typing SVG" /></h1>-->
+
+## Sobre mi :
+
+- 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, React, Redux, Node, Express, entre otras.
+- 💪🏼 Actualmente estoy profundizando mis conocimientos en tecnologías Frontend y Backend 😅
+- 🔭 Metas futuras: aprender nuevas tecnologías e incorporar softkills que aporten a mi desarrollo profesional y personal: nunca dejar de crecer.
+- 👯 Actualmente estoy abierto para: Una nueva oportunidad laboral , este es MI CURRICULUM.
+<br>
+
+<hr>
+
+## 🛠 &nbsp; Pila de tecnologías:
+
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"> | <img src="https://redux.js.org/img/redux.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"> | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40">
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> 
+<hr>
+
+<br>
+
+## Mi Proyectos ✨ :
+
+<br>
+<a href="https://github.com/VeronicaBDev/Serena-Hotel-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeronicaBDev&repo=Serena-Hotel-&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/VeronicaBDev/challenge-Alura/tree/main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeronicaBDev&repo=challenge-Alura&theme=tokyonight" />
+<br>
+
+## Contactate conmigo ☕ :
+
+<br>
+
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/veronica-b-81227a278) [![@gospa.webdev@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@gospa.webdev@gmail.com")](mailto:gospa.webdev@gmail.com)
+
