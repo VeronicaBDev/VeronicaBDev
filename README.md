@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ## Sobre mi :
 
-- 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, React, Redux, Node, Express, entre otras.
+- 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, React, Redux, Node, Express, Sequalize, PostgreDB, entre otras.
 - 💪🏼 Actualmente estoy profundizando mis conocimientos en tecnologías Frontend y Backend 😅
-- 🔭 Metas futuras: aprender nuevas tecnologías e incorporar softkills que aporten a mi desarrollo profesional y personal: nunca dejar de crecer.
-- 👯 Actualmente estoy abierto para: Una nueva oportunidad laboral , este es MI CURRICULUM.
+- 🔭 Metas futuras: aprender nuevas tecnologías e incorporar softkills que aporten a mi desarrollo profesional y personal: nunca dejar de crecer y mejorar en todo aspecto!.
+- 👯 Actualmente estoy abierto para: Una nueva oportunidad laboral y colaborar en nuevos desarrollos, comunícate conmigo!.
 <br>
 
 <hr>
@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 
 <br>
 
-## Mi Proyectos ✨ :
+## Mis Proyectos ✨ :
 
 <br>
 <a href="https://github.com/VeronicaBDev/Serena-Hotel-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeronicaBDev&repo=Serena-Hotel-&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/VeronicaBDev/challenge-Alura/tree/main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeronicaBDev&repo=challenge-Alura&theme=tokyonight" />
+<a href="https://serena-hotel.vercel.app/">Serena Hotel</a>
+
 <br>
 
 ## Contactate conmigo ☕ :
