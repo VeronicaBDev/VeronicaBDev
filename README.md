@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--<h1 ><img src="https://i.postimg.cc/MHghWqQK/PARA-GITHUB.jpg" alt="Typing SVG" /></h1>-->
+<h1 ><img src="https://i.postimg.cc/xTPQjf3f/PARA-GITHUB.jpg" alt="Typing SVG" /></h1>
 
 ## Sobre mi :
 
