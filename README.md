@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Me encuentro trabajando con tecnologías de desarrollo web como JavaScript, React, Redux, Node, Express, Sequalize, PostgreDB, entre otras.
 - 💪🏼 Estoy profundizando mis conocimientos en tecnologías Frontend y Backend 😅
-- 🔭 Metas futuras: aprender nuevas tecnologías e incorporar softkills que aporten a mi desarrollo profesional y personal: nunca dejar de crecer y mejorar en todo aspecto!.
+- 🔭 Metas futuras: aprender nuevas tecnologías e incorporar softkills que aporten a mi desarrollo profesional y personal; SCRUM entre ellas. Y nunca dejar de crecer y mejorar en todo aspecto!.
 - 👯 Actualmente estoy abierta para: Una nueva oportunidad laboral y colaborar en nuevos desarrollos y oportunidades de negocio, comunícate conmigo!.
 <br>
 
