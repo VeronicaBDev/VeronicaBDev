@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/veronica-b-81227a278) [![@gospa.webdev@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@gospa.webdev@gmail.com")](mailto:gospa.webdev@gmail.com)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/veronica-b-81227a278(https://www.linkedin.com/in/ver%C3%B3nica-b-81227a278/)) [![@gospa.webdev@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@gospa.webdev@gmail.com")](mailto:gospa.webdev@gmail.com)
 
